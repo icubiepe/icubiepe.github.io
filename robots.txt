@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://icubiepe.github.io/AEt/sitemap_index.txt
+Sitemap: https://icubiepe.github.io/pqw/sitemap_index.txt
+Sitemap: https://icubiepe.github.io/xjB/sitemap_index.txt
+Sitemap: https://icubiepe.github.io/xli/sitemap_index.txt
